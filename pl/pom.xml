@@ -20,9 +20,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
   <modules>
     <module>pl.web</module>
     <module>pl.client</module>

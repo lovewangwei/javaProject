@@ -27,18 +27,4 @@
     <module>dal.model</module>
     <module>dal.persistence</module>
   </modules>
-  <build>
-    <finalName>lvguanjia</finalName>
-      <plugins>
-        <plugin>
-         <artifactId>maven-eclipse-plugin</artifactId>
-         <configuration>
-           <source>1.6</source>
-           <target>1.6</target>
-         </configuration>
-         <version>2.8</version>
-       </plugin>
-    </plugins>
-   </build>
-
 </project>

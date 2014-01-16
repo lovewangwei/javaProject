@@ -12,7 +12,7 @@
 
     <!-- 此文件仅被 webx-*.xml 引用。 -->
     <!-- 注意：此文件需要property-placeholder变量：${component}。 -->
-
+	
     <!-- 综合设置。 -->
     <services:webx-configuration />
 
